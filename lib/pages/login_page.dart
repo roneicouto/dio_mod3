@@ -23,10 +23,10 @@ class _LoginPageState extends State<LoginPage> {
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    Image.network(
-                      "https://hermes.digitalinnovation.one/assets/diome/logo.png",
+                    Image.asset(
+                      "logo.png",
                       width: 100,
-                      height: 100,
+                      height: 150,
                     ),
                   ],
                 ),
