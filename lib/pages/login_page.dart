@@ -30,6 +30,20 @@ class _LoginPageState extends State<LoginPage> {
                     ),
                   ],
                 ),
+                const SizedBox(
+                  height: 20,
+                ),
+                const Text("Já tem cadastro?"),
+                const SizedBox(
+                  height: 10,
+                ),
+                const Text("Faça seu login e make the change_"),
+                const SizedBox(
+                  height: 20,
+                ),
+const Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [],),
               ],
             ),
           ),
